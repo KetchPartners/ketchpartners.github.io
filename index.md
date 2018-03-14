@@ -15,11 +15,11 @@ We are currently working on sprint 1 (install of system components) and sprint 2
 
 Repository              |Website                   |Notes
 ------------------------|--------------------------|-------------------------------------------------
-[Sapcommercialprojects](https://github.com/KetchPartners/sapcommercialprojects)|['SAP CPM and CI Training'](https://ketchpartners.github.io/sapcommercialprojects)|Training Information on SAP, CPM and Fiori Web Apps
-[KM_Requirements](https://github.com/KetchPartners/km_requirements)|No website TBD||Stores Key Project Items like Releases, Requirements
-[Kmsprint1](https://github.com/KetchPartners/kmsprint1)|['Sprint 1'](https://ketchpartners.github.io/kmsprint1)|Main Working Directory for Sprint 1
-[kmsprint2](https://github.com/KetchPartners/kmsprint2)|['Sprint 2'](https://ketchpartners.github.io/kmsprint2)|Main Working Directory for Sprint 2
-[openui5](https://github.com/KetchPartners/openui5)|'[Open UI5 Open Source Project](http://openui5.org))|The Official SAP UI5 Front End Project
+[Sapcommercialprojects](https://github.com/KetchPartners/sapcommercialprojects)|[SAP CPM and CI Training](https://ketchpartners.github.io/sapcommercialprojects)|Training Information on SAP CPM and Fiori Web Apps
+[KM_Requirements](https://github.com/KetchPartners/km_requirements)|No website TBD|Stores Key Project Items like ReleasesRequirements
+[Kmsprint1](https://github.com/KetchPartners/kmsprint1)|[Sprint 1](https://ketchpartners.github.io/kmsprint1)|Main Working Directory for Sprint 1
+[kmsprint2](https://github.com/KetchPartners/kmsprint2)|[Sprint 2](https://ketchpartners.github.io/kmsprint2)|Main Working Directory for Sprint 2
+[openui5](https://github.com/KetchPartners/openui5)|[Open UI5 Open Source Project](http://openui5.org)|The Official SAP UI5 Front End Project
 [openui5-sample-app](https://github.com/KetchPartners/openui5-sample-app)|Not Applicable|A Sample Web App for SAP
 
 
