@@ -11,6 +11,9 @@ comments: true
 #### Current Project Status
 We are currently working on sprint 1 (install of system components) and sprint 2 (opportunity, project estimate to CPQ quotation).
 
+The sprint schedule can be found here [Sprint Schedule](/sapcommercialprojects/schedule.html).
+
+
 #### Repositories
 
 Repository              |Website                   |Notes
@@ -21,6 +24,8 @@ Repository              |Website                   |Notes
 [kmsprint2](https://github.com/KetchPartners/kmsprint2)|[Sprint 2](https://ketchpartners.github.io/kmsprint2)|Main Working Directory for Sprint 2
 [openui5](https://github.com/KetchPartners/openui5)|[Open UI5 Open Source Project](http://openui5.org)|The Official SAP UI5 Front End Project
 [openui5-sample-app](https://github.com/KetchPartners/openui5-sample-app)|Not Applicable|A Sample Web App for SAP
+
+
 
 
 #### Git and Github Information
