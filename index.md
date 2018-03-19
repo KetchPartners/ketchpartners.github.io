@@ -13,6 +13,10 @@ We are currently working on sprint 1 (install of system components) and sprint 2
 
 The sprint schedule can be found here [Sprint Schedule](/sapcommercialprojects/schedule.html).
 
+Sprint 1 Website is https://ketchpartners.github.io/kmsprint1
+Sprint 2 Website is https://ketchpartners.github.io/kmsprint2
+
+
 
 #### Repositories
 
