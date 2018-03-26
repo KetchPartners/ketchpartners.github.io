@@ -11,7 +11,7 @@ comments: true
 #### Current Project Status
 We are currently working on sprint 1 (install of system components) and sprint 2 (opportunity, project estimate to CPQ quotation).
 
-The sprint schedule can be found here [Sprint Schedule](/sapcommercialprojects/schedule.html).
+The sprint schedule can be found here [Sprint Schedule](https://trello.com/b/0Lvfq77X).
 
 Sprint 1 Website is https://ketchpartners.github.io/kmsprint1 .  
 
